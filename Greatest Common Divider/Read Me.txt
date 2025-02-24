@@ -1,0 +1,1 @@
+these file provide 2 versions of the Greatest Common devisor circuit , one for catered for power optimization and another for time.
